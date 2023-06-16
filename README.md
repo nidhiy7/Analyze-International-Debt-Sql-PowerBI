@@ -12,4 +12,5 @@ The data used in this project is provided by The World Bank. It contains both na
 
 # Power BI Dashboard
 
-![Debt Statics](https://github.com/nidhiy7/Sales_Insights_Power_Bi/assets/80893000/c52e4444-f705-4778-b3b3-03c3fe464bb9)
+![International Debt Statics_page-0001](https://github.com/nidhiy7/Sql-Queries-Practise/assets/80893000/1cfe0b91-bc11-4674-82cc-904d9e3eff02)
+
